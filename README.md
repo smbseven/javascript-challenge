@@ -14,11 +14,11 @@ javascript homework designed to visualize data with html, d3, javascript and css
 </ul>
 
 <h3>Basic HTML<h3>
-Edited index.html to improve readability
+<li>Edited index.html to improve readability
   
 <h3>javascript code<h3>
-Created dbapp.js to append table and create search results with the appropriate table structure and the event listener to capture user input and present resulting data
+<li>Created dbapp.js to append table and create search results with the appropriate table structure and the event listener to capture user input and present resulting data
   
 <h3>Styling with css<h3>
-Created a simple css file to improve styling for the page
+<li>Created a simple css file to improve styling for the page
   
