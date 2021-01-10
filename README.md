@@ -13,15 +13,15 @@ javascript homework designed to visualize data with html, d3, javascript and css
 <li>Use a date form in your HTML document and write JavaScript code that will listen for events and search through the date/time column to find rows that match user input.
 </ul>
 
-<h3>Basic HTML<h3>
+<h3>Basic HTML</h3>
 <ul>
 <li>Edited index.html to improve readability
 <ul> 
-<h3>javascript code<h3>
+<h3>javascript code</h3>
 <ul>
 <li>Created dbapp.js to append table and create search results with the appropriate table structure and the event listener to capture user input and present resulting data
 <ul>
-<h3>Styling with css<h3>
+<h3>Styling with css</h3>
 <ul>
 <li>Created a simple css file to improve styling for the page
 <ul>
